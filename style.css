@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    }
+
+.container{
+    background-color: lightblue;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: khaki;
+}
+
+#first{
+    background-color: forestgreen;
+}
+#second{
+    
+    background-color: lightgreen;
+    position: fixed;
+    left: 100px;
+    
+}
+#third{
+    background-color: hotpink;
+}
+
+/*background-color: greenyellow;
+    position: relative; 
+    left: 100px;    /*je jaygay normally      thakar kotha tar sapekkhe je konodik a sore jaoa k relative ble*/
+
+
+
+/*background-color: greenyellow;
+    position: static; /*by default position is static*/
+
+
+/*background-color: greenyellow;
+position: absolute;  /*section er sapekkhe ja hoar hobe
+left: 100px;*/
+   
+    
